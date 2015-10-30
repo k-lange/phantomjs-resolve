@@ -1,0 +1,14 @@
+{
+  "name": "phantomjs",
+  "version": "2.0.0",
+  "description": "Returns the path to a local phantomjs binary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kolja Lange",
+  "license": "MIT",
+  "dependencies": {
+    "which": "^1.2.0"
+  }
+}
