@@ -9,6 +9,7 @@
   "author": "Kolja Lange",
   "license": "MIT",
   "dependencies": {
+    "semver": "^5.0.3",
     "which": "^1.2.0"
   }
 }
